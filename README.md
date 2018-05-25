@@ -1,4 +1,4 @@
-# SOARS 2018 Data and Computational Thinking Workshops
+# SOARS 2018 Computational Thinking and Data Science Workshops
 
 The purpose of these workshops is to provide an introduction and exploration of the tools for using Python for computational thinking and scientific data exploration.
 
