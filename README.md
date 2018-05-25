@@ -10,7 +10,7 @@ The purpose of these workshops is to provide an introduction and exploration of 
 
 | Date | # | Description |
 |------|---|-------------|
-| May 25 | [Workshop 0](./A/ws0) | Overview of summer workshops (joint with PM group) |
+| May 25 | [Workshop 0](./AP/ws0/SOARS_WS0_05252018.pdf) | Overview of summer workshops (joint with PM group) |
 | June 1 | [Workshop 1](./A/ws1) | |
 | June 8 | [Workshop 2](./A/ws2) | |
 | June 15 | [Workshop 3](./A/ws3) | |
@@ -22,7 +22,7 @@ The purpose of these workshops is to provide an introduction and exploration of 
 
 | Date | # | Description |
 |------|---|-------------|
-| May 25 | [Workshop 0](./P/ws0) | Overview of summer workshops (joint with AM group)|
+| May 25 | [Workshop 0](./AP/ws0/SOARS_WS0_05252018.pdf) | Overview of summer workshops (joint with AM group)|
 | June 1 | [Workshop 1](./P/ws1) | |
 | June 8 | [Workshop 2](./P/ws2) | |
 | June 15 | [Workshop 3](./P/ws3) | |
