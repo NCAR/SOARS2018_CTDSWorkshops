@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Home on SOARS2018CTDS</title>
-    <link>https://ncar.github.io/SOARS2018_CTDSWorkshops/</link>
+    <link>/</link>
     <description>Recent content in Home on SOARS2018CTDS</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 29 May 2018 08:00:00 -0600</lastBuildDate>
     
-	<atom:link href="https://ncar.github.io/SOARS2018_CTDSWorkshops/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Welcome aboard!</title>
-      <link>https://ncar.github.io/SOARS2018_CTDSWorkshops/post/2018/05/29/welcome-aboard/</link>
+      <link>/post/2018/05/29/welcome-aboard/</link>
       <pubDate>Tue, 29 May 2018 08:00:00 -0600</pubDate>
       
-      <guid>https://ncar.github.io/SOARS2018_CTDSWorkshops/post/2018/05/29/welcome-aboard/</guid>
+      <guid>/post/2018/05/29/welcome-aboard/</guid>
       <description>Prot&amp;eacute;g&amp;eacute;s, welcome to what might be one of the most important summer experiences of your professional and academic life! We have a wonderful summer planned for you in the summer writing and computation workshops, so hang on &amp;mdash; it is going to be an amazing ride.
 Hopefully, you had some time over the weekend to think about what you would like to accomplish this summer and are ready to leap into action.</description>
     </item>
